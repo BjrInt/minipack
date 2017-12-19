@@ -1,0 +1,22 @@
+{
+  "name": "geofencer",
+  "version": "1.0.0",
+  "description": "Leaflet Geofencing Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "node_modules/.bin/webpack --config webpack.js --watch",
+    "build": "node_modules/.bin/webpack --config webpack.prod.js"
+  },
+  "author": "Bonjour Internet",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "webpack": "^3.10.0"
+  },
+  "dependencies": {
+    "babel-preset-env": "^1.6.1",
+    "dev": "^0.1.3"
+  }
+}
