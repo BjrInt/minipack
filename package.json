@@ -1,7 +1,7 @@
 {
-  "name": "geofencer",
+  "name": "bjrint-minipack",
   "version": "1.0.0",
-  "description": "Leaflet Geofencing Library",
+  "description": "A Webpack minimalist config file for lib creation",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
